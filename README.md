@@ -2,7 +2,7 @@
 
 Software Engineering Student | Backend Developer | Full-Stack Developer
 
-🌐 Portfolio: [https://portfolio-roan-zeta-sq182es72c.vercel.app/ ](https://diego-herrera-portfolio.vercel.app/) 
+🌐 Portfolio: https://diego-herrera-portfolio.vercel.app/
 💼 LinkedIn: https://www.linkedin.com/in/diegoherrerachaves
 📧 Email: dh746925@gmail.com  
 📍 Heredia, Costa Rica  
